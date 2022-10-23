@@ -1,4 +1,0 @@
-Functional Requirements
-1.	The system shall provide a list of teachers according to a selected subject, distance and price. 
-2.	The system shall display to the teacher a list of students that he can select in order to form a group of two or more, who live at a maximum distance of 10 km and want to do group lessons of the same subject. 
-3.	The system shall send a push notification to the tutor and to the student with the time of the lesson one hour before the beginning. 

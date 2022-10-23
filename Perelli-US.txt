@@ -1,0 +1,4 @@
+User Stories
+1.	As a student, I want to research a teacher according to distance, subject and price, so that I can have help and improve my grades.  
+2.	As a teacher, I want a push notification with the time of the lesson one hour before the beginning, so that I can be organized and I don’t forget any lessons. 
+3.	As a student, I want to review my teachers after my lesson by giving them a rate from 1 to 5, so that other students know my opinion. 
